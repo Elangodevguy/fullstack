@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Oceanic Next (dimmed bg)",
+		"files.autoSave": "onFocusChange",
+		"workbench.statusBar.visible": true,
+		"workbench.activityBar.visible": true,
+		"workbench.colorCustomizations": {
+			"statusBar.background": "#333333",
+			"statusBar.noFolderBackground": "#333333",
+			"statusBar.debuggingBackground": "#263238"
+		}
+	}
+}
