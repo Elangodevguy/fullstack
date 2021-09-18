@@ -1,4 +1,6 @@
 {
     "editor.fontSize": 14,
-    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace"
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
 }
