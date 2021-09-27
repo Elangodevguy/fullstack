@@ -9,17 +9,17 @@
 // var square4 = square(4);
 
 // 4 Hoisting
-debugger;
-var x = 5;
-aaa(x);
-function aaa() {
-  console.log(x);
-  function elango() {
-    console.log(x + x);
-  }
-  elango();
-}
+// debugger;
+// var x = 5;
+// aaa(x);
+// function aaa() {
+//   console.log(x);
+//   function elango() {
+//     console.log(x + x);
+//   }
+//   elango();
+// }
 
-var aaab = () => {
-  console.log("arrow");
-};
+// var aaab = () => {
+//   console.log("arrow");
+// };
