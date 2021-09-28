@@ -24,21 +24,21 @@
 //   console.log("arrow");
 // };
 // 5 How functions work in js
-debugger;
-var x = 10;
-var y = {
-  x: 200,
-};
-a();
-b();
+// debugger;
+// var x = 10;
+// var y = {
+//   x: 200,
+// };
+// a();
+// b();
 
-function a() {
-  console.log(this.x);
-}
-function b() {
-  var x = 1000;
-  console.log(x);
-}
+// function a() {
+//   console.log(this.x);
+// }
+// function b() {
+//   var x = 1000;
+//   console.log(x);
+// }
 
-var binded = a.bind(y);
-binded();
+// var binded = a.bind(y);
+// binded();
